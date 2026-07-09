@@ -1,27 +1,27 @@
 {
   "repository": "boul2g-code/kirox-apk-downloads",
   "releaseTag": "apk-latest",
-  "updatedAt": "2026-07-09T09:22:04.592Z",
+  "updatedAt": "2026-07-09T17:03:55.925Z",
   "rider": {
     "name": "Rider APK",
-    "version": "1.0.16",
-    "versionCode": 116,
-    "label": "Rider APK 1.0.16",
+    "version": "1.0.17",
+    "versionCode": 117,
+    "label": "Rider APK 1.0.17",
     "assetName": "kirox-rider-latest.apk",
-    "size": 58161007,
-    "sha256": "9CAFA5D3077ECA79ED2F4EE02BC4361410381F706A3133B77E7F220B22E6C68F",
+    "size": 58163999,
+    "sha256": "F47A6D730B4CADA35FAF26AC0298DEEAD19DEC5A5591E90423BF6AA8AD0AC78E",
     "url": "https://github.com/boul2g-code/kirox-apk-downloads/releases/download/apk-latest/kirox-rider-latest.apk",
-    "updatedAt": "2026-07-09T09:25:18Z"
+    "updatedAt": "2026-07-09T17:06:53Z"
   },
   "restaurant": {
     "name": "Restaurant APK",
-    "version": "1.0.4",
-    "versionCode": 104,
-    "label": "Restaurant APK 1.0.4",
+    "version": "1.0.5",
+    "versionCode": 105,
+    "label": "Restaurant APK 1.0.5",
     "assetName": "kirox-restaurant-latest.apk",
-    "size": 57960764,
-    "sha256": "C38C67475774B3E5126E990328EBD5F25922E354707058BD24950D0B1BAE1CB7",
+    "size": 57980436,
+    "sha256": "E03DFB3D83BFD665C5AC7F1C3BDEFA5A9C932E7BCBE8FBD8A83F0754F7C3BBE4",
     "url": "https://github.com/boul2g-code/kirox-apk-downloads/releases/download/apk-latest/kirox-restaurant-latest.apk",
-    "updatedAt": "2026-07-08T14:07:15Z"
+    "updatedAt": "2026-07-09T17:09:55Z"
   }
 }
