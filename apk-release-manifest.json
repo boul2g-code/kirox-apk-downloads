@@ -10,7 +10,7 @@
     "assetName": "kirox-rider-latest.apk",
     "size": 81803998,
     "sha256": "712F942E7472FD49CBB6F2D76D1DECCE00FD3D79CFB3C04655B679E7BAF8931A",
-    "url": "https://github.com/boul2g-code/kirox-apk-downloads/releases/download/apk-latest/kirox-rider-latest.apk",
+    "url": "https://raw.githubusercontent.com/boul2g-code/kirox-apk-downloads/main/kirox-rider-latest.apk",
     "updatedAt": "2026-09-03T10:06:09Z"
   },
   "restaurant": {
@@ -21,7 +21,7 @@
     "assetName": "kirox-restaurant-latest.apk",
     "size": 58012156,
     "sha256": "79AC05F1C77D1A91A5BE574998E0D253C0D1E489712EBF1C944A343DD51F4537",
-    "url": "https://github.com/boul2g-code/kirox-apk-downloads/releases/download/apk-latest/kirox-restaurant-latest.apk",
+    "url": "https://raw.githubusercontent.com/boul2g-code/kirox-apk-downloads/main/kirox-restaurant-latest.apk",
     "updatedAt": "2026-09-03T10:06:09Z"
   }
 }
